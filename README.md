@@ -7,6 +7,7 @@ In the field of computer science, there has been no comprehensive, up-to-date, a
 -1040 corresponding ChatGPT-generated abstracts
 
 **This dataset was created and utilized in the study. Full details of the dataset are available at this link:
+
 https://github.com/Mohsen-Arzanii/HuGPT-CS-Abstracts
 
 _______
